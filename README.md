@@ -8,3 +8,6 @@ Here are the steps that the code works:
 stemming
 tokenizing
 
+
+BM25 method is used as the retrieval function
+
