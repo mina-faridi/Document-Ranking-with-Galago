@@ -11,7 +11,12 @@ Here are the steps that the code works:
 
 
 these methods are used as the retrieval function:
+
 BM25
+
+BM25+
 
 Pivoted Length Normalization
 
+
+nDCG, MAP, Recall and P@5 scales are used for evaluation.
