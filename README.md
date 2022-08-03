@@ -14,8 +14,6 @@ these methods are used as the retrieval function:
 
 BM25
 
-BM25+
-
 Pivoted Length Normalization
 
 
