@@ -5,9 +5,13 @@ In this code News documents in TREC type are ranked.
 
 Here are the steps that the code works:
 
-stemming
-tokenizing
+-stemming
+
+-tokenizing
 
 
-BM25 method is used as the retrieval function
+these methods are used as the retrieval function:
+BM25
+
+Pivoted Length Normalization
 
