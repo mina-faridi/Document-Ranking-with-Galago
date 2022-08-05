@@ -24,4 +24,7 @@ preparing the environment:
 First, install the ubuntu operating system, and then install Java, Maven, and Galago respectively.
 The text file, which is in the form of a zip, must be extracted from the zip so that it can be converted into the trectext format.
 
+Creating the index:
+This code creates an index and performs the steps of tokenization, normalization of words, removal of prepositions, and rooting.
+
 
