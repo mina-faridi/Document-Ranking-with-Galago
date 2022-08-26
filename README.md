@@ -15,7 +15,7 @@ these methods are used as the retrieval function:
 * Pivoted Length Normalization
 
 
-nDCG, MAP, Recall and P@5 scales are used for evaluation.
+* nDCG, MAP, Recall and P@5 scales are used for evaluation.
 
 preparing the environment:
 
