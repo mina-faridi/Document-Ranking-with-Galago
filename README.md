@@ -27,6 +27,19 @@ This code creates an index and performs the steps of tokenization, normalization
 
 We use these settings to tokenize the text:
 
+"tokenizer" :{
+
+"fields" : ["text","head"],
+
+"formats" : {
+  
+    "text"   : "string",
+    
+    "head"   : "string"
+  
+  }
+
+}
 
 There are different algorithms for rooting, one of the most common of which is porter, which actually removes repetitive parts such as ing from the end of words and has a good performance overall. Set it up
 This is how it was done
