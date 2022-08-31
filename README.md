@@ -45,7 +45,9 @@ We use these settings to tokenize the text:
 ```
 There are different algorithms for rooting, one of the most common of which is porter, which actually removes repetitive parts such as ing from the end of words and has a good performance overall. Set it up
 This is how it was done
-
+```sh
+"stemmer" : ["porter"]
+```
 
 To create the mentioned index, save it and run it with the following command:
 ```sh
