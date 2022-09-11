@@ -53,3 +53,25 @@ To create the mentioned index, save it and run it with the following command:
 ```sh
 Galago/galago-3.16/core/target/appassembler/bin/galago build  /home/mina/Desktop/CA1-Resources/indexResult.json
 ```
+
+```
+  {
+  	"server" : true,
+   
+    "indexPath" : "indexDir",
+    "inputPath" : "./CA1-Resources/Corpus/corpus/Documents.trectext",
+      
+      "stemmer" : ["porter"],
+      
+      "tokenizer" : {
+      
+      "fields" : ["text","head"],
+      
+      "formats" : {
+          "text"    : "string",
+          "head"    : "string"
+        }
+      },
+      "fileType":"trectext"
+    }
+```
