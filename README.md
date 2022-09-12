@@ -1,4 +1,4 @@
-## Document-Ranking-with-Galago
+# Document-Ranking-with-Galago
 Galago related homeworks of Information Retrieval Course
 
 In this code News documents in TREC type are ranked. Here are the steps that the code works:
@@ -75,3 +75,6 @@ Galago/galago-3.16/core/target/appassembler/bin/galago build  /home/mina/Desktop
       "fileType":"trectext"
     }
 ```
+## First question: BM25 recovery method
+First, we perform the query on queries 101 to 150 or the main method BM25. And we set the value of output results for each query to 100 (100 = requested).
+The following table shows the results of MAP, nDCG, Recall, P5 criteria in queries 101 to 150 with different b, k parameters. Based on this table, we can see that the optimal state occurred at b=0.4, k=2.5.
