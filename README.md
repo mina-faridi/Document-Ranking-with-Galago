@@ -78,3 +78,8 @@ Galago/galago-3.16/core/target/appassembler/bin/galago build  /home/mina/Desktop
 ## First question: BM25 recovery method
 First, we perform the query on queries 101 to 150 or the main method BM25. And we set the value of output results for each query to 100 (100 = requested).
 The following table shows the results of MAP, nDCG, Recall, P5 criteria in queries 101 to 150 with different b, k parameters. Based on this table, we can see that the optimal state occurred at b=0.4, k=2.5.
+
+
+
+
+In the next part, we perform the query for queries 51 to 100. Once we give the default value to parameters b, k and once the optimal value of the previous part and observe that the result is better by using the optimal parameters. Because the optimal values of b and k are related to the document itself, and since the documents are fixed, with different queries, the optimal values should not differ much, and optimization can be effective in this case.
