@@ -94,14 +94,14 @@ In the next part, we perform the query for queries 51 to 100. Once we give the d
 
 <div align="center">
   <a>
-    <img src="https://github.com/mina-faridi/Document-Ranking-with-Galago/blob/main/HW1/pictures/2.png" alt="Logo" width="500" height="350">
+    <img src="https://github.com/mina-faridi/Document-Ranking-with-Galago/blob/main/HW1/pictures/2.png" alt="Logo" width="250" height="100">
   </a>
 </div>
 
 
 <div align="center">
   <a>
-    <img src="https://github.com/mina-faridi/Document-Ranking-with-Galago/blob/main/HW1/pictures/3.png" alt="Logo" width="500" height="350">
+    <img src="https://github.com/mina-faridi/Document-Ranking-with-Galago/blob/main/HW1/pictures/3.png" alt="Logo" width="500" height="200">
   </a>
 </div>
 
@@ -110,7 +110,7 @@ In the next part, we perform the query for queries 51 to 100. Once we give the d
 
 <div align="center">
   <a>
-    <img src="https://github.com/mina-faridi/Document-Ranking-with-Galago/blob/main/HW1/pictures/4.png" alt="Logo" width="500" height="350">
+    <img src="https://github.com/mina-faridi/Document-Ranking-with-Galago/blob/main/HW1/pictures/4.png" alt="Logo" width="250" height="120">
   </a>
 </div>
 
