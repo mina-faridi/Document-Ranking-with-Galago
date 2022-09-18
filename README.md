@@ -34,11 +34,11 @@ We use these settings to tokenize the text:
 "fields" : ["text","head"],
 
 "formats" : {
-  
+
     "text"   : "string",
     
     "head"   : "string"
-  
+
   }
 
 }
@@ -81,7 +81,6 @@ The following table shows the results of MAP, nDCG, Recall, P5 criteria in queri
 
 
 
-
 In the next part, we perform the query for queries 51 to 100. Once we give the default value to parameters b, k and once the optimal value of the previous part and observe that the result is better by using the optimal parameters. Because the optimal values of b and k are related to the document itself, and since the documents are fixed, with different queries, the optimal values should not differ much, and optimization can be effective in this case.
 
 
@@ -90,3 +89,29 @@ In the next part, we perform the query for queries 51 to 100. Once we give the d
     <img src="https://github.com/mina-faridi/Document-Ranking-with-Galago/blob/main/HW1/pictures/1.png" alt="Logo" width="500" height="350">
   </a>
 </div>
+
+
+
+<div align="center">
+  <a>
+    <img src="https://github.com/mina-faridi/Document-Ranking-with-Galago/blob/main/HW1/pictures/2.png" alt="Logo" width="500" height="350">
+  </a>
+</div>
+
+
+<div align="center">
+  <a>
+    <img src="https://github.com/mina-faridi/Document-Ranking-with-Galago/blob/main/HW1/pictures/3.png" alt="Logo" width="500" height="350">
+  </a>
+</div>
+
+
+
+
+<div align="center">
+  <a>
+    <img src="https://github.com/mina-faridi/Document-Ranking-with-Galago/blob/main/HW1/pictures/4.png" alt="Logo" width="500" height="350">
+  </a>
+</div>
+
+
