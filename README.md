@@ -104,6 +104,8 @@ In the next part, we examine the results of queries with different evaluation fu
 </div>
 
 
+In this part, the fifth proposed method and the original model along with the BM25 basic model and the model without nested logarithmic components are compared. As can be seen, the BM25+ model has achieved the best results on the default values of k and b parameters.
+
 
 
 <div align="center">
