@@ -81,16 +81,13 @@ The following table shows the results of MAP, nDCG, Recall, P5 criteria in queri
 
 
 
-In the next part, we perform the query for queries 51 to 100. Once we give the default value to parameters b, k and once the optimal value of the previous part and observe that the result is better by using the optimal parameters. Because the optimal values of b and k are related to the document itself, and since the documents are fixed, with different queries, the optimal values should not differ much, and optimization can be effective in this case.
-
-
 <div align="center">
   <a>
     <img src="https://github.com/mina-faridi/Document-Ranking-with-Galago/blob/main/HW1/pictures/1.png" alt="Logo" width="500" height="350">
   </a>
 </div>
 
-
+In the next part, we perform the query for queries 51 to 100. Once we give the default value to parameters b, k and once the optimal value of the previous part and observe that the result is better by using the optimal parameters. Because the optimal values of b and k are related to the document itself, and since the documents are fixed, with different queries, the optimal values should not differ much, and optimization can be effective in this case.
 
 <div align="center">
   <a>
@@ -98,6 +95,7 @@ In the next part, we perform the query for queries 51 to 100. Once we give the d
   </a>
 </div>
 
+In the next part, we examine the results of queries with different evaluation functions. The values obtained from each of the mentioned methods are listed in the table below. According to the table, the first proposed method does not have optimal efficiency criteria because it only uses IDF, and we also conclude from this table that models 4 and 5 had better overall results based on the evaluation criteria and by using The optimal b, k parameters obtained in the previous parts have shown more improvement. As you can see in the table below, due to the fact that parameters b and k were not used in methods one and three, these two methods are not sensitive to the changes of these parameters, so optimization is not possible.
 
 <div align="center">
   <a>
